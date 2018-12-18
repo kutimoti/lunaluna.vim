@@ -1,9 +1,3 @@
-# winter_azure.vim
+# lunaluna
 
-## Screen Shot
-
-![](./pic/winter_azure_vim.png)
-
-![](./pic/winter_azure_cpp.png)
-
-![](./pic/winter_azure_py.png)
+![](./pic/ss.png)
